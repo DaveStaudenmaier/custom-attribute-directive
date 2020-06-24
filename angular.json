@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "custom-attribute-directive"
+    }
+  },
+  "defaultProject": "custom-attribute-directive",
+  "cli": {
+    "analytics": false
+  }
 }
