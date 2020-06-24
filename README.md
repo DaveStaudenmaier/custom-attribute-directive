@@ -1,6 +1,8 @@
-# CustomAttributeDirective
+# Custom Attribute Directive Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+
+This demo project gives an example of a custom attribute input element directive.   You will want to look at my [blog](http://devreboot.com/custom-attribute-directive) for an explanation of the crazy styling of the input element :).  
 
 ## Development server
 
